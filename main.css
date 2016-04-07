@@ -1,0 +1,26 @@
+.uno{background-color:#ffff00;
+height: 80px;
+width: 100px;
+float: left;
+}
+.dos{background-color: #6699ff;
+height: 80px;
+width: 100px;
+float: left;
+}
+.tres{background-color: #ff3399;
+height: 80px;
+width: 100px;
+float: left;
+}
+.clearfix:before, .clearfix:after{
+    content: "";
+    display: table;}
+
+.clearfix:after {
+    clear: both;
+}
+
+body>div{border: 1px solid #d6d6c2;}
+
+
